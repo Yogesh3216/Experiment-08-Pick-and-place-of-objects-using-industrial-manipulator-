@@ -36,7 +36,8 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+                 ![image](https://user-images.githubusercontent.com/103016346/204127608-f195355e-645c-44f9-b3e8-b21df59c47b4.png)
+
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -79,7 +80,7 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+
 
 
 
@@ -100,6 +101,16 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
+## Program :
+![image](https://user-images.githubusercontent.com/103016346/204127353-099da597-f3cb-4a6a-b966-62597df601e6.png)
+![image](https://user-images.githubusercontent.com/103016346/204127360-45f33ace-43a4-497f-83f2-3bfb9fd835bc.png)
+![image](https://user-images.githubusercontent.com/103016346/204127501-4c4fdc4c-6c49-492d-bad6-763032b71848.png)
+
+
+## Robot Action:
+![image](https://user-images.githubusercontent.com/103016346/204127388-f97e73b9-2deb-4b7b-8a62-03c060e4083e.png)
+![image](https://user-images.githubusercontent.com/103016346/204127568-015626eb-a551-40d2-874f-88b4c4b6e2f0.png)
+
 
 
 
@@ -108,7 +119,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
